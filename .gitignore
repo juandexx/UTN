@@ -1,0 +1,48 @@
+# Bytecode
+*.class
+
+# Compiled files
+bin/
+target/
+
+# Logs
+*.log
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# NetBeans
+nb-configuration.xml
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# VSCode
+.settings/
+.vscode/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+log/
+target/
+release-timestamp.properties
+
+# JAR files
+*.jar
+
+# Libraries
+lib/
